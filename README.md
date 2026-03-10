@@ -8,3 +8,8 @@ Contributors: N Ashika & Aashin A P
 Tech stack:
 
 Database: MySQL
+Frontend:
+Backend:
+
+Database Schema:
+
